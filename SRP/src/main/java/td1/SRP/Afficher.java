@@ -11,11 +11,8 @@ public class Afficher {
     
 	}	
 
-	}
-	public double calculSalaire() {return salaire*12;}
-	public void AfficheCordonnes() { Instance.printer.AfficherCoordone(nom+","+adresse);}
-	public void AfficheSalaire() { Instance.printer.AfficherSalaire(calculSalaire());}
-}
+	
+	
 
 
 }
